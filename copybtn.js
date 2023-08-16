@@ -87,7 +87,7 @@ var observer = new MutationObserver(function (mutations, me) {
 	var parent =
 		document.getElementsByClassName('gn0msi-0 cqZBrb')[0] ??
 		document.getElementsByClassName(
-			'_otyr1y44 _ca0q1y44 _u5f3idpf _n3td1y44 _19bvidpf _1e0c116y'
+			'_otyr1b66 _1yt4swc3 _1e0c116y'
 		)[0]
 
 	if (parent) {
